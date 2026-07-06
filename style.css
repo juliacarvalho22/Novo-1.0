@@ -1,11 +1,11 @@
 header{
-    background-color: rgba(57, 161, 57, 0.856);
-    color: rgba(2, 28, 255, 0.842);
+    background-color: #04cdfa;
+    color: rgba(6, 11, 56, 0.842);
     text-align: center;
 }
 
 main{
-    background-color: rgb(0, 0, 0);
-    color: rgb(0, 0, 0);
+    background-color: #04cdfa;
+    color: rgba(6, 11, 56, 0.842);
     text-align: center;
 }
