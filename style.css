@@ -9,3 +9,8 @@ main{
     color: rgba(6, 11, 56, 0.842);
     text-align: center;
 }
+
+img{
+    width: 150px;
+    height: 150px;
+}
